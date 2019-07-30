@@ -4,7 +4,7 @@
 <!-- default file list end -->
 # How to configure dxRangeSelector
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t143031)**
+**[[Run Online]](https://codecentral.devexpress.com/t143031/)**
 <!-- run online end -->
 
 
