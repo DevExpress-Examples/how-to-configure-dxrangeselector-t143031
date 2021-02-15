@@ -1,15 +1,3 @@
-<!-- default file list -->
-*Files to look at*:
+# This example is obsolete
 
-<!-- default file list end -->
-# How to configure dxRangeSelector
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t143031/)**
-<!-- run online end -->
-
-
-This is the project that you will get if you go through the <a href="http://www.youtube.com/watch?v=nZrTpA1qe4E&index=28&list=PL8h4jt35t1wjGvgflbHEH_e3b23AA30-z">DevExpress DevExtreme - HTML5 Range Selector</a> video tutorial.
-
-<br/>
-
-
+<p>From v18.1, the DevExtreme hybrid mobile-related tools, including DevExtreme SPA Framework, are deprecated. See <a href="https://community.devexpress.com/blogs/aspnet/archive/2018/02/26/devextreme-hybrid-mobile-tools-deprecation-in-v18-1.aspx"><u>this blog post</u></a> for more information. The mobile tools documentation was removed from the newer versions, but you can still find it in <a href="https://js.devexpress.com/Documentation/17_2/Guide/SPA_Framework/Application_Development/"><u>the older versions</u></a>.</p>
